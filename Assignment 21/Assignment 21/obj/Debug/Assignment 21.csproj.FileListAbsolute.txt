@@ -1,0 +1,9 @@
+C:\Users\25jwh\Pictures\ssss\Assignment 21\Assignment 21\bin\Debug\Assignment 21.exe.config
+C:\Users\25jwh\Pictures\ssss\Assignment 21\Assignment 21\bin\Debug\Assignment 21.exe
+C:\Users\25jwh\Pictures\ssss\Assignment 21\Assignment 21\bin\Debug\Assignment 21.pdb
+C:\Users\25jwh\Pictures\ssss\Assignment 21\Assignment 21\obj\Debug\Assignment 21.csproj.AssemblyReference.cache
+C:\Users\25jwh\Pictures\ssss\Assignment 21\Assignment 21\obj\Debug\Assignment_21.Form1.resources
+C:\Users\25jwh\Pictures\ssss\Assignment 21\Assignment 21\obj\Debug\Assignment 21.csproj.GenerateResource.cache
+C:\Users\25jwh\Pictures\ssss\Assignment 21\Assignment 21\obj\Debug\Assignment 21.csproj.CoreCompileInputs.cache
+C:\Users\25jwh\Pictures\ssss\Assignment 21\Assignment 21\obj\Debug\Assignment 21.exe
+C:\Users\25jwh\Pictures\ssss\Assignment 21\Assignment 21\obj\Debug\Assignment 21.pdb
